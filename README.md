@@ -1,2 +1,2 @@
 # myapp
-This is my app
+all of my projects
